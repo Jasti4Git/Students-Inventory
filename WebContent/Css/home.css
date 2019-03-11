@@ -1,0 +1,16 @@
+body  {
+ background-image: url('../Images/NYBG.jpg');
+ background-size: cover; /* Resize the background image to cover the entire container */
+ 
+}
+
+
+.table {
+	   width: 50%;
+  margin-top: 150px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 350px;
+
+	   
+}
